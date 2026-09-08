@@ -1,0 +1,65 @@
+{
+  "currency": "₸",
+  "commission_rate": 0.12,
+  "expected_total_expenses": 8804000,
+  "products": {
+    "DEMO-VC-100": {
+      "name": "Demo Vacuum Standard",
+      "batch_qty": 100,
+      "ad_spend": 420000,
+      "given_away": 4,
+      "written_off": 1,
+      "offline_qty": 0,
+      "offline_amount": 0,
+      "stock_counted": 9
+    },
+    "DEMO-VC-200": {
+      "name": "Demo Vacuum Pro",
+      "batch_qty": 100,
+      "ad_spend": 610000,
+      "given_away": 2,
+      "written_off": 0,
+      "offline_qty": 1,
+      "offline_amount": 110000,
+      "stock_counted": 56
+    }
+  },
+  "expenses": [
+    {
+      "date": "2025-12-26",
+      "item": "trademark registration",
+      "amount": 770000,
+      "category": "launch"
+    },
+    {
+      "date": "2025-12-27",
+      "item": "product photography",
+      "amount": 73000,
+      "category": "launch"
+    },
+    {
+      "date": "2026-01-08",
+      "item": "supplier invoice",
+      "amount": 7050000,
+      "category": "goods"
+    },
+    {
+      "date": "2026-01-30",
+      "item": "freight to warehouse",
+      "amount": 761000,
+      "category": "goods"
+    },
+    {
+      "date": "2026-02-02",
+      "item": "local delivery",
+      "amount": 30000,
+      "category": "goods"
+    },
+    {
+      "date": "2026-03-15",
+      "item": "accounting",
+      "amount": 120000,
+      "category": "operating"
+    }
+  ]
+}
